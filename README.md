@@ -1,6 +1,6 @@
 # My Git Proyect
 
-My code for the Git proyect
+> Codigo de conflicto con el que tenia antes aqui.
 
 ## Estoy en la rama de caracteristicas
 
