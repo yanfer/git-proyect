@@ -1,7 +1,7 @@
 # My Git Proyect
 
-My code for the Git proyect
+Este es el cambio que yo tengo
 
 ## Estoy en la rama de caracteristicas
 
->Anothe code change
+> Anothe code change
